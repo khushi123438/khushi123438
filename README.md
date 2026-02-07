@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Khushi Pandey  
 **AI/ML Enthusiast | Full Stack Developer (MERN) | DSA Problem Solver**
 
-🔗 [LinkedIn ](https://www.linkedin.com/in/khushi-pandey-12a104343/)  | 📧 [Email ](kp8238977@gmail.com) | 🌐 [Portfolio ](https://khushi-info.netlify.app/) 
+🔗 [LinkedIn ](https://www.linkedin.com/in/khushi-pandey-12a104343/)  |  📧 [Email ](kp8238977@gmail.com)  | 🌐 [Portfolio ](https://khushi-info.netlify.app/) 
 
 ---
 
@@ -16,7 +16,6 @@ My work focuses on developing **production-style full-stack applications** and e
 
 ### ⚡ GreenBill – Electricity Bill Management System with Chatbot Integration  
 **Tech Stack:** React.js, Node.js, Express, MongoDB  
-**Code | Demo**
 
 Built a full-stack **electricity bill management platform** to digitize billing and payment workflows.  
 Integrated a **chatbot** to assist users with bill-related queries, usage information, and basic support.  
@@ -27,7 +26,6 @@ Designed scalable APIs with secure data handling and a clean, user-friendly UI.
 
 ### ⚖️ NyaySetu – User–Advocate Dashboard with Chatbot Integration  
 **Tech Stack:** React.js, Node.js, Express, MongoDB  
-**Code | Demo**
 
 Developed a full-stack legal-tech platform featuring a **user–advocate dashboard** to streamline case interactions and communication.  
 Integrated a **chatbot** to assist users with basic legal queries, guidance, and platform navigation.  
@@ -37,8 +35,6 @@ Implemented role-based access, case management workflows, and secure messaging w
 
 ### 🧩 DSA Practice & Problem Solving  
 **Tech Stack:** Java  
-**Code**
-
 Solved **300+ DSA problems** across LeetCode and GeeksforGeeks with optimized solutions and brief explanations. Regular practice focused on arrays, strings, trees, graphs, DP, and interview patterns.
 
 ---
