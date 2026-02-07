@@ -42,11 +42,10 @@ Solved **300+ DSA problems** across LeetCode and GeeksforGeeks with optimized so
 ## 🛠️ Technical Expertise  
 
 **AI/ML:** Python, NumPy, Pandas, scikit-learn (learning advanced ML concepts)  
-**Full Stack:** React.js, Node.js, Express.js, REST APIs
-**Framework:** Bootstrap, Tailwind CSS
-**Databases:** MongoDB, SQL
+**Full Stack:** React.js, Node.js, Express.js, REST APIs, Bootstrap, Tailwind CSS  
+**Databases:** MongoDB, SQL  
 **Programming:** Java, C, JavaScript, Python  
-**Tools:** Git, GitHub, Postman, VS Code  
+**Tools & Deployment:** Git, GitHub, Postman, VS Code, Vercel, Netlify  
 **Core CS:** OOPS, DBMS, OS, CN  
 
 ---
