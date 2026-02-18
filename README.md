@@ -17,19 +17,19 @@ My work focuses on developing **production-style full-stack applications** and e
 ### ⚡ GreenBill – Electricity Bill Management System with Chatbot Integration  
 **Tech Stack:** React.js, Node.js, Express, MongoDB  
 
-Built a full-stack **electricity bill management platform** to digitize billing and payment workflows.  
-Integrated a **chatbot** to assist users with bill-related queries, usage information, and basic support.  
-Key features include user authentication, electricity bill generation, monthly consumption tracking, bill history, and admin dashboards.  
-Designed scalable APIs with secure data handling and a clean, user-friendly UI.
+- Built a full-stack **electricity bill management platform** to digitize billing and track past bills.  
+- Integrated a **chatbot** to assist users with bill-related queries, usage information, and basic support.  
+- Key features include user authentication, electricity bill generation, monthly consumption tracking, bill history, and admin dashboards.  
+- Designed scalable APIs with secure data handling and a clean, user-friendly UI.
 
 ---
 
 ### ⚖️ NyaySetu – User–Advocate Dashboard with Chatbot Integration  
 **Tech Stack:** React.js, Node.js, Express, MongoDB  
 
-Developed a full-stack legal-tech platform featuring a **user–advocate dashboard** to streamline case interactions and communication.  
-Integrated a **chatbot** to assist users with basic legal queries, guidance, and platform navigation.  
-Implemented role-based access, case management workflows, and secure messaging with a focus on clean UX and scalable backend design.
+- Developed a full-stack legal-tech platform featuring a **user–advocate dashboard** to streamline case interactions and communication.  
+- Integrated a **chatbot** to assist users with basic legal queries, guidance, and platform navigation.  
+- Implemented role-based access, case management workflows, and secure messaging with a focus on clean UX and scalable backend design.
 
 ---
 
