@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About  
-I’m an **AI/ML enthusiast** with hands-on experience building intelligent features into full-stack applications, and a **DSA problem solver** with 300+ problems solved across platforms. Alongside this, I’ve built multiple **end-to-end MERN stack projects** with real-world use-cases.
+I’m an **AI/ML enthusiast** with hands-on experience building intelligent features into full-stack applications, and a **DSA problem solver** with 400+ problems solved across platforms. Alongside this, I’ve built multiple **end-to-end MERN stack projects** with real-world use-cases.
 
 My work focuses on developing **production-style full-stack applications** and exploring **AI-powered features** like chatbots, analytics, and smart automation to solve practical problems.
 
