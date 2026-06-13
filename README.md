@@ -51,7 +51,7 @@ Solved **400+ DSA problems** across LeetCode and GeeksforGeeks with optimized so
 ---
 
 ## 🏆 Recognition & Achievements  
-- ✅ Solved **400+ DSA problems** (LeetCode & GFG)  
+- ✅ Solved **500+ DSA problems** (LeetCode & GFG)  
 - ⚡ Built **GreenBill**, a real-world electricity bill management system  
 - ⚖️ Built **NyaySetu**, a legal-tech platform with chatbot integration  
 - 📌 Consistent GitHub contributions and project-based learning  
