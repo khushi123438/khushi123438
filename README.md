@@ -35,7 +35,7 @@ My work focuses on developing **production-style full-stack applications** and e
 
 ### 🧩 DSA Practice & Problem Solving  
 **Tech Stack:** Java  
-Solved **400+ DSA problems** across LeetCode and GeeksforGeeks with optimized solutions and brief explanations. Regular practice focused on arrays, strings, trees, graphs, DP, and interview patterns.
+Solved **500+ DSA problems** across LeetCode and GeeksforGeeks with optimized solutions and brief explanations. Regular practice focused on arrays, strings, trees, graphs, DP, and interview patterns.
 
 ---
 
