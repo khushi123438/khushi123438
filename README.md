@@ -24,7 +24,6 @@ I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP
 - Voice interview system with AI evaluation and personalized feedback.
 - Smart recommendations to improve interview performance.
 
----
 
 ### ⚖️ NyaySetu – AI Legal Assistance Platform
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, LLMs
@@ -32,14 +31,6 @@ I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP
 - AI-powered legal assistance platform with chatbot integration.
 - User & Advocate dashboard with secure authentication.
 - AI-assisted legal guidance and document support.
-
----
-
-### 🖼️ AI Image Classifier
-**Tech Stack:** Python, TensorFlow, CNN, Flask
-
-- Deep Learning application that classifies uploaded images using Convolutional Neural Networks.
-- Displays prediction results with confidence scores through an interactive web interface.
 
 ---
 
