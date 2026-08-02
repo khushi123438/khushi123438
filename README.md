@@ -1,72 +1,118 @@
-## 👋 Hi, I'm Khushi Pandey  
-**AI/ML Enthusiast | Full Stack Developer (MERN) | DSA Problem Solver**
+# 👋 Hi, I'm Khushi Pandey  
+**Aspiring AI Engineer | Machine Learning & Deep Learning Enthusiast | Full Stack Developer**
 
-🔗 [LinkedIn ](https://www.linkedin.com/in/khushi-pandey-12a104343/)  |  📧 [Email ](kp8238977@gmail.com)  | 🌐 [Portfolio ](https://khushi-info.netlify.app/) 
-
----
-
-## 🧠 About  
-I’m an **AI/ML enthusiast** with hands-on experience building intelligent features into full-stack applications, and a **DSA problem solver** with 500+ problems solved across platforms. Alongside this, I’ve built multiple **end-to-end MERN stack projects** with real-world use-cases.
-
-My work focuses on developing **production-style full-stack applications** and exploring **AI-powered features** like chatbots, analytics, and smart automation to solve practical problems.
+🔗 [LinkedIn](https://www.linkedin.com/in/khushi-pandey-12a104343/) | 📧 Email: kp8238977@gmail.com | 🌐 [Portfolio](https://khushidev.vercel.app/)
 
 ---
 
-## 💼 Featured Projects  
+# 🧠 About
 
-### ⚡ GreenBill – Electricity Bill Management System with Chatbot Integration  
-**Tech Stack:** React.js, Node.js, Express, MongoDB  
+I'm an **aspiring AI Engineer** passionate about building intelligent applications using **Machine Learning, Deep Learning, and Generative AI**. I have hands-on experience developing ML models, CNN-based computer vision applications, AI-powered chatbots, and full-stack web applications that solve real-world problems.
 
-- Built a full-stack **electricity bill management platform** to digitize billing and track past bills.  
-- Integrated a **chatbot** to assist users with bill-related queries, usage information, and basic support.  
-- Key features include user authentication, electricity bill generation, monthly consumption tracking, bill history, and admin dashboards.  
-- Designed scalable APIs with secure data handling and a clean, user-friendly UI.
+Alongside AI development, I build scalable **MERN stack applications** and enjoy integrating AI features such as chatbots, recommendation systems, image classification, and predictive analytics into modern web applications.
+
+I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP, LLMs, and AI system design** while strengthening my Data Structures & Algorithms skills.
 
 ---
 
-### ⚖️ NyaySetu – User–Advocate Dashboard with Chatbot Integration  
-**Tech Stack:** React.js, Node.js, Express, MongoDB  
+# 🚀 Featured Projects
 
-- Developed a full-stack legal-tech platform featuring a **user–advocate dashboard** to streamline case interactions and communication.  
-- Integrated a **chatbot** to assist users with basic legal queries, guidance, and platform navigation.  
-- Implemented role-based access, case management workflows, and secure messaging with a focus on clean UX and scalable backend design.
+### 🤖 NexHire AI – AI Interview Coach
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, LLMs
 
----
-
-### 🧩 DSA Practice & Problem Solving  
-**Tech Stack:** Java  
-Solved **500+ DSA problems** across LeetCode and GeeksforGeeks with optimized solutions and brief explanations. Regular practice focused on arrays, strings, trees, graphs, DP, and interview patterns.
+- AI-powered interview platform with resume-based interview generation.
+- Voice interview system with AI evaluation and personalized feedback.
+- Smart recommendations to improve interview performance.
 
 ---
 
-## 🛠️ Technical Expertise  
+### ⚖️ NyaySetu – AI Legal Assistance Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, LLMs
 
-**AI/ML:** Python, NumPy, Pandas, scikit-learn (learning advanced ML concepts)  
-**Full Stack:** React.js, Node.js, Express.js, REST APIs, Bootstrap, Tailwind CSS  
-**Databases:** MongoDB, SQL  
-**Programming:** Java, C, JavaScript, Python  
-**Tools & Deployment:** Git, GitHub, Postman, VS Code, Vercel, Netlify  
-**Core CS:** OOPS, DBMS, OS, CN  
+- AI-powered legal assistance platform with chatbot integration.
+- User & Advocate dashboard with secure authentication.
+- AI-assisted legal guidance and document support.
 
 ---
 
-## 🏆 Recognition & Achievements  
-- ✅ Solved **500+ DSA problems** (LeetCode & GFG)  
-- ⚡ Built **GreenBill**, a real-world electricity bill management system  
-- ⚖️ Built **NyaySetu**, a legal-tech platform with chatbot integration  
-- 📌 Consistent GitHub contributions and project-based learning  
+### 🖼️ AI Image Classifier
+**Tech Stack:** Python, TensorFlow, CNN, Flask
+
+- Deep Learning application that classifies uploaded images using Convolutional Neural Networks.
+- Displays prediction results with confidence scores through an interactive web interface.
 
 ---
 
-## 🎓 Education  
-**B.Tech in Computer Science and Engineering**  
-PSIT, Kanpur | 2024-2028
+## 🛠️ Technical Skills
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Prompt Engineering
+- Neural Networks
+
+### Languages
+- Python
+- Java
+- JavaScript
+- C
+
+### AI/ML Libraries
+- TensorFlow
+- Keras
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+### Full Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Tailwind CSS
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+- Netlify
+
+### Core CS
+- Data Structures & Algorithms
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
 
 ---
 
-## 🤝 Let’s Connect  
-I’m open to collaborations on **AI/ML projects, full-stack development**, and challenging problem-solving work. Feel free to reach out:
+# 🏆 Achievements
 
-📧 kp8238977@gmail.com
-💼 [LinkedIn ](https://www.linkedin.com/in/khushi-pandey-12a104343/) 
-🌐 [Portfolio ](https://khushi-info.netlify.app/)
+- ✅ Solved **500+ DSA problems** across LeetCode & GeeksforGeeks.
+- 🤖 Built multiple AI & Machine Learning projects including chatbot, image classifier, and prediction systems.
+- 🚀 Developed end-to-end MERN stack applications integrated with AI features.
+- 📜 Completed industry-recognized certifications in AI, Machine Learning, Deep Learning, Cloud, and Data Science.
+
+---
+
+# 🎓 Education
+
+**B.Tech – Computer Science & Engineering (AI)**  
+Pranveer Singh Institute of Technology (PSIT), Kanpur  
+2024 – 2028
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities related to **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full Stack Development.**
+
+📧 **Email:** kp8238977@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/khushi-pandey-12a104343/  
+🌐 **Portfolio:** https://khushidev.vercel.app/
