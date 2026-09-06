@@ -18,7 +18,7 @@ I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP
 # 🚀 Featured Projects
 
 ### 🤖 NexHire AI – AI Interview Coach
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, LLMs
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Speech AI, Gemini API, OPEN AI API
 
 - AI-powered interview platform with resume-based interview generation.
 - Voice interview system with AI evaluation and personalized feedback.
