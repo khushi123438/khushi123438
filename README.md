@@ -26,7 +26,7 @@ I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP
 
 
 ### ⚖️ NyaySetu – AI Legal Assistance Platform
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, LLMs
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, LLMs
 
 - AI-powered legal assistance platform with chatbot integration.
 - User & Advocate dashboard with secure authentication.
