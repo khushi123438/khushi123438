@@ -85,7 +85,7 @@ I'm continuously expanding my expertise in **Deep Learning, Computer Vision, NLP
 
 # 🏆 Achievements
 
-- ✅ Solved **500+ DSA problems** across LeetCode & GeeksforGeeks.
+- ✅ Solved **600+ DSA problems** across LeetCode & GeeksforGeeks.
 - 🤖 Built multiple AI & Machine Learning projects including chatbot, image classifier, and prediction systems.
 - 🚀 Developed end-to-end MERN stack applications integrated with AI features.
 - 📜 Completed industry-recognized certifications in AI, Machine Learning, Deep Learning, Cloud, and Data Science.
