@@ -64,6 +64,9 @@ My goal is to become a strong **AI Engineer** capable of taking an AI idea from 
 * Feature Extraction
 * Deep Learning for Vision
 
+---
+
+
 ## 📝 Natural Language Processing
 
 I'm exploring **NLP from traditional text processing to modern LLM-based approaches**.
