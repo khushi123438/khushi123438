@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khushi Pandey
 
-### **Aspiring AI Engineer | Deep Learning | NLP | Generative AI | LLMs | RAG | Agentic AI**
+### **Aspiring AI Engineer | Exploring, Building & Deploying Intelligent Systems**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/khushi-pandey-12a104343/) · 📧 **[kp8238977@gmail.com](mailto:kp8238977@gmail.com)** · 🌐 [Portfolio](https://khushidev.vercel.app/)
 
