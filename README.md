@@ -20,6 +20,16 @@ My goal is to become a strong **AI Engineer** capable of taking an AI idea from 
 
 ---
 
+### 📊 Data Science
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis
+* Statistical Analysis
+* Feature Engineering
+* Data Visualization
+* Model Evaluation
+
 ## 🚀 AI & Machine Learning
 
 ### 🤖 Machine Learning
@@ -53,18 +63,6 @@ My goal is to become a strong **AI Engineer** capable of taking an AI idea from 
 * CNN-based Models
 * Feature Extraction
 * Deep Learning for Vision
-
-### 📊 Data Science
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis
-* Statistical Analysis
-* Feature Engineering
-* Data Visualization
-* Model Evaluation
-
----
 
 ## 📝 Natural Language Processing
 
