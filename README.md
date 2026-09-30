@@ -1,211 +1,345 @@
 # 👋 Hi, I'm Khushi Pandey
 
-**Aspiring AI Engineer | Machine Learning & Deep Learning | Generative AI | LLMs**
+### **Aspiring AI Engineer | Deep Learning | NLP | Generative AI | LLMs | RAG | Agentic AI**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/khushi-pandey-12a104343/) | 📧 **[kp8238977@gmail.com](mailto:kp8238977@gmail.com)** | 🌐 [Portfolio](https://khushidev.vercel.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/khushi-pandey-12a104343/) · 📧 **[kp8238977@gmail.com](mailto:kp8238977@gmail.com)** · 🌐 [Portfolio](https://khushidev.vercel.app/)
 
 ---
 
 ## 🧠 About Me
 
-I'm an **AI/ML-focused Computer Science student** interested in building practical, end-to-end intelligent systems.
+I'm a **Computer Science & AI student focused on Artificial Intelligence and Machine Learning**, with a growing interest in building practical, end-to-end AI systems.
 
-My learning journey spans **Machine Learning, Deep Learning, Data Science, NLP, Computer Vision, Generative AI, and LLM-based applications**. I enjoy understanding not only how models work, but also how they can be turned into reliable applications and deployed in real-world environments.
+My learning journey covers **Machine Learning, Data Science, Deep Learning, Natural Language Processing, Computer Vision, Transformers, Generative AI, Large Language Models, RAG, and Agentic AI**.
 
-I've been exploring areas such as **Transformers, RAG, LLM APIs, OpenAI APIs, Prompt Engineering, GANs, Agentic AI, and AI application development**, while strengthening my foundations in mathematics, statistics, algorithms, and core computer science.
+I enjoy going beyond model training and understanding how AI systems are actually built — from **data preprocessing and model development to APIs, LLM integration, retrieval pipelines, containerization, and deployment**.
 
-I also work with **Flask and Python-based APIs** to connect AI/ML models with applications, and I'm learning the engineering side of AI through **Docker, Kubernetes, APIs, and deployment workflows**.
+Currently, I'm strengthening my foundations in **ML/DL, NLP, and AI system design** while exploring modern AI technologies such as **Transformers, LLMs, RAG, OpenAI APIs, Generative AI, and Agentic AI**.
 
-Currently, I'm focused on becoming a well-rounded **AI Engineer** who can take an idea from data and experimentation to a working, deployable AI system.
-
----
-
-## 🔬 AI & Machine Learning
-
-My current areas of exploration include:
-
-* **Machine Learning**
-
-  * Supervised & Unsupervised Learning
-  * Regression & Classification
-  * Ensemble Methods
-  * Feature Engineering
-  * Model Evaluation & Optimization
-
-* **Deep Learning**
-
-  * Neural Networks
-  * CNNs
-  * RNNs
-  * LSTM / BiLSTM
-  * Autoencoders
-  * Transfer Learning
-
-* **Computer Vision**
-
-  * Image Classification
-  * Image Processing
-  * CNN-based architectures
-  * Feature Extraction
-
-* **Data Science**
-
-  * Data Cleaning & Preprocessing
-  * Exploratory Data Analysis
-  * Statistical Analysis
-  * Feature Selection
-  * Data Visualization
+My goal is to become a strong **AI Engineer** capable of taking an AI idea from experimentation to a reliable, deployable application.
 
 ---
 
-## 🧠 NLP, LLMs & Generative AI
+## 🚀 AI & Machine Learning
 
-I'm actively exploring modern NLP and Generative AI systems, including:
+### 🤖 Machine Learning
 
-* Natural Language Processing
-* Text Preprocessing & Feature Extraction
-* Embeddings
+* Supervised Learning
+* Unsupervised Learning
+* Regression
+* Classification
+* Clustering
+* Ensemble Learning
+* Feature Engineering
+* Feature Selection
+* Model Evaluation
+* Hyperparameter Optimization
+
+### 🧠 Deep Learning
+
+* Artificial Neural Networks
+* CNNs
+* RNNs
+* LSTM
+* BiLSTM
+* Autoencoders
+* Transfer Learning
+* Model Training & Evaluation
+
+### 👁️ Computer Vision
+
+* Image Processing
+* Image Classification
+* CNN-based Models
+* Feature Extraction
+* Deep Learning for Vision
+
+### 📊 Data Science
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis
+* Statistical Analysis
+* Feature Engineering
+* Data Visualization
+* Model Evaluation
+
+---
+
+## 📝 Natural Language Processing
+
+I'm exploring **NLP from traditional text processing to modern LLM-based approaches**.
+
+### NLP Fundamentals
+
+* Text Preprocessing
+* Tokenization
+* Stopword Removal
+* Stemming & Lemmatization
+* Text Cleaning
+* Bag of Words
+* TF-IDF
+* N-grams
+* Text Classification
+* Sentiment Analysis
+* Named Entity Recognition
+
+### Modern NLP
+
+* Word Embeddings
+* Semantic Similarity
+* Sentence Embeddings
+* Attention Mechanism
 * Transformers
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* Vector Search
-* Context-aware AI applications
-* LLM APIs
-* OpenAI API
-* Generative AI
-* Agentic AI
-* Multi-step AI workflows
-* AI-powered assistants
-
-I'm particularly interested in understanding how traditional **ML/NLP pipelines evolve into LLM-powered and retrieval-based systems**, and how these systems can be integrated into practical applications.
+* Contextual Representations
+* Transformer-based NLP Models
 
 ---
 
-## 🧩 Generative AI & Advanced AI
+## 🧬 Transformers & LLMs
 
-Areas I'm currently learning and experimenting with:
+I'm learning how modern language models work and how they can be integrated into real applications.
 
-**Generative AI**
+* Transformer Architecture
+* Self-Attention
+* Multi-Head Attention
+* Encoder / Decoder Architecture
+* Tokenization
+* Positional Encoding
+* Embeddings
+* Context Windows
+* LLM Fundamentals
+* Prompt Engineering
+* LLM APIs
+* Model Integration
+* LLM-based Applications
+
+---
+
+## ✨ Generative AI
+
+My Generative AI exploration includes:
 
 * Text Generation
 * Image Generation
-* LLM-based Applications
+* LLM Applications
 * Multimodal AI
+* Prompt Engineering
+* Structured Output
+* AI Assistants
+* Generative Models
+* OpenAI API
+* Other LLM APIs
 
-**Transformers**
-
-* Attention Mechanism
-* Encoder / Decoder Architectures
-* Tokenization
-* Embeddings
-* Transformer-based NLP
-
-**RAG**
-
-* Document Processing
-* Chunking
-* Embeddings
-* Vector Databases
-* Retrieval
-* Context Injection
-* LLM Generation
-
-**Agentic AI**
-
-* Tool Calling
-* AI Agents
-* Task Decomposition
-* Multi-step Reasoning Workflows
-* Agent Orchestration
-* Retrieval + Tools + LLM workflows
-
-**Generative Models**
-
-* GANs
-* Generative Neural Networks
-* Image Generation Concepts
+I'm particularly interested in moving from simply **calling an LLM API** to understanding how complete AI applications are designed around LLMs.
 
 ---
 
-## ⚙️ AI Engineering & Deployment
+## 🔎 Retrieval-Augmented Generation
 
-Beyond model development, I'm also exploring the engineering required to build and deploy AI systems.
+I'm exploring **RAG architectures** for building AI systems that can work with external and domain-specific knowledge.
 
-* Python-based AI APIs
+### RAG Concepts
+
+* Document Ingestion
+* Text Cleaning
+* Chunking
+* Embeddings
+* Vector Search
+* Similarity Search
+* Retrieval
+* Context Construction
+* Prompt Construction
+* LLM Generation
+* Retrieval Evaluation
+
+### RAG Pipeline
+
+```text
+Documents
+    ↓
+Document Processing
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Store
+    ↓
+Similarity Search
+    ↓
+Relevant Context
+    ↓
+LLM
+    ↓
+Generated Response
+```
+
+---
+
+## 🤖 Agentic AI
+
+I'm also exploring how LLMs can be used as part of **tool-using and multi-step AI systems**.
+
+Areas of interest include:
+
+* AI Agents
+* Tool Calling
+* Function Calling
+* Task Decomposition
+* Multi-step Workflows
+* Agent Orchestration
+* Retrieval + Tools + LLM
+* Context Management
+* AI Decision Workflows
+* Multi-agent System Concepts
+
+My focus is on understanding when an application actually needs an **agentic workflow** instead of a simple LLM call or traditional RAG pipeline.
+
+---
+
+## 🎨 Generative Models
+
+I'm exploring generative modeling concepts including:
+
+* Generative Adversarial Networks
+* GAN Architecture
+* Generator & Discriminator
+* Latent Representations
+* Image Generation
+* Generative Deep Learning
+
+---
+
+## ⚙️ AI Engineering
+
+Building an AI model is only one part of an AI system. I'm also learning how to turn models and LLM workflows into usable applications.
+
+### Backend & APIs
+
+* Python
 * Flask
 * REST APIs
+* API Design
 * Model Serving
-* API Integration
+* AI/ML API Integration
 * OpenAI API Integration
+* LLM API Integration
+* Postman
+
+### AI Application Flow
+
+```text
+Data
+ ↓
+Preprocessing
+ ↓
+ML / DL / NLP Model
+ ↓
+Inference
+ ↓
+Python API
+ ↓
+Application
+```
+
+For LLM-based systems:
+
+```text
+User Query
+ ↓
+NLP / Query Processing
+ ↓
+Retrieval / Tools
+ ↓
+LLM
+ ↓
+Response Processing
+ ↓
+AI Application
+```
+
+---
+
+## 🐳 Deployment & Infrastructure
+
+I'm building an understanding of the infrastructure required to deploy and scale AI applications.
+
 * Docker
+* Containerization
+* Docker Images
+* Docker Compose
 * Kubernetes
-* Containerized AI Applications
-* Deployment & Scalability
-* Git & GitHub
+* Container Orchestration
+* Service Deployment
+* API Deployment
+* Scalable AI Systems
+* Basic MLOps Concepts
 
-My goal is to understand the complete AI lifecycle:
+My current focus is understanding the path from:
 
-**Data → Preprocessing → Model → Evaluation → API → Containerization → Deployment**
+**Local AI Application → Containerized Application → Deployable AI Service**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * Java
 * JavaScript
 * C
 
-### Machine Learning & Data Science
+### AI / ML
 
-* Scikit-learn
+* Machine Learning
+* Deep Learning
+* Data Science
+* Computer Vision
+* Natural Language Processing
+* Neural Networks
+* Transformers
+* Generative AI
+* LLMs
+* RAG
+* Agentic AI
+* GANs
+
+### Libraries & Frameworks
+
 * TensorFlow
 * Keras
+* Scikit-learn
 * NumPy
 * Pandas
 * Matplotlib
 
-### AI / Deep Learning
-
-* Neural Networks
-* CNN
-* RNN
-* LSTM / BiLSTM
-* Autoencoders
-* Computer Vision
-* NLP
-* Transformers
-* GANs
-
 ### Generative AI
 
-* LLMs
-* Generative AI
-* RAG
-* Prompt Engineering
 * OpenAI API
 * LLM APIs
+* Prompt Engineering
 * Embeddings
 * Vector Search
-* Agentic AI
+* RAG
+* AI Agents
+* Tool Calling
 
-### Backend & AI APIs
+### Backend
 
 * Flask
 * REST APIs
 * Python Backend
 * API Integration
+* Postman
 
-### DevOps & Deployment
+### Deployment
 
 * Docker
 * Kubernetes
 * Git
 * GitHub
-* Postman
 
 ### Core Computer Science
 
@@ -217,75 +351,115 @@ My goal is to understand the complete AI lifecycle:
 
 ---
 
-## 📊 What I'm Currently Working On
+## 📚 Current Learning Path
 
-* Strengthening **Machine Learning & Deep Learning fundamentals**
-* Exploring **NLP and Transformer architectures**
-* Building applications with **LLMs and Generative AI**
-* Understanding **RAG pipelines and vector search**
-* Experimenting with **OpenAI and other LLM APIs**
-* Learning **Agentic AI architectures and tool-based workflows**
-* Improving AI model serving using **Flask and Python APIs**
-* Learning **Docker and Kubernetes for AI deployment**
-* Practicing **Data Structures & Algorithms**
-* Exploring how AI systems can be designed, deployed, and scaled end-to-end
+```text
+Python
+   ↓
+Mathematics & Statistics
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Computer Vision
+   ↓
+NLP
+   ↓
+Transformers
+   ↓
+Generative AI
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+Agentic AI
+   ↓
+AI APIs & Flask
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+End-to-End AI Engineering
+```
 
 ---
 
-## 🏆 Achievements
+## 🔬 What I'm Currently Exploring
+
+* Advanced Machine Learning
+* Deep Learning architectures
+* Natural Language Processing
+* Transformer architectures
+* Large Language Models
+* Generative AI applications
+* Retrieval-Augmented Generation
+* Vector databases and semantic search
+* OpenAI and other LLM APIs
+* Agentic AI and tool-based workflows
+* AI application architecture
+* Model serving with Flask
+* Dockerized AI applications
+* Kubernetes for deployment
+* AI system design and scalability
+
+---
+
+## 🏆 Achievements & Learning
 
 * Solved **600+ DSA problems** across LeetCode and GeeksforGeeks.
-* Built and experimented with multiple **Machine Learning and Deep Learning systems**.
-* Hands-on experience with **NLP, Computer Vision, Generative AI, and LLM-based applications**.
-* Explored **RAG, Transformers, OpenAI APIs, and Agentic AI workflows**.
-* Developing understanding of **AI deployment using APIs, Docker, and Kubernetes**.
-* Completed certifications and learning programs across **AI, Machine Learning, Deep Learning, Cloud, and Data Science**.
+* Hands-on experience with **Machine Learning and Deep Learning workflows**.
+* Explored **NLP, Computer Vision, Transformers, and Generative AI**.
+* Built applications using **LLMs, OpenAI APIs, and RAG concepts**.
+* Explored **Agentic AI and tool-based AI workflows**.
+* Learning **AI deployment using Flask, Docker, and Kubernetes**.
+* Completed learning programs and certifications across **AI, Machine Learning, Deep Learning, Cloud, and Data Science**.
 
 ---
 
 ## 🎓 Education
 
 **B.Tech – Computer Science & Engineering (AI)**
-Pranveer Singh Institute of Technology (PSIT), Kanpur
-**2024 – 2028**
+**Pranveer Singh Institute of Technology (PSIT), Kanpur**
+2024 – 2028
 
 ---
 
-## 📈 Current Learning Path
+## 📈 My AI Journey
 
 ```text
-Python & Mathematics
-        ↓
-Data Science
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-NLP & Computer Vision
-        ↓
-Transformers
-        ↓
-Generative AI & LLMs
-        ↓
-RAG & Vector Search
-        ↓
-Agentic AI
-        ↓
-Flask & AI APIs
-        ↓
-Docker
-        ↓
-Kubernetes
-        ↓
-End-to-End AI Engineering
+                ARTIFICIAL INTELLIGENCE
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+     Traditional AI                 Generative AI
+          │                             │
+    Machine Learning                  LLMs
+          │                             │
+    Deep Learning                 Transformers
+          │                             │
+    Computer Vision                    RAG
+          │                             │
+         NLP                       Agentic AI
+          │                             │
+          └──────────────┬──────────────┘
+                         │
+                  AI Engineering
+                         │
+              Flask • APIs • Docker
+                         │
+                    Kubernetes
 ```
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, and AI Engineering**.
+I'm interested in **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG, Agentic AI, and AI Engineering**.
 
 📧 **Email:** [kp8238977@gmail.com](mailto:kp8238977@gmail.com)
 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-pandey-12a104343/
