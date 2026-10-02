@@ -113,9 +113,9 @@ Building Python/Flask APIs for AI systems, model serving, REST APIs, API integra
 
 ## 🎓 Education
 
-**B.Tech – Computer Science & Engineering (AI)**
-**Pranveer Singh Institute of Technology (PSIT), Kanpur**
-2024 – 2028
+- **B.Tech – Computer Science & Engineering (AI)**
+- **Pranveer Singh Institute of Technology (PSIT), Kanpur**
+- 2024 – 2028
 
 ---
 
