@@ -28,12 +28,12 @@ const achievements = [
   },
 
   {
-    icon: "🧠",
-    value: "AI",
-    title: "Current Learning",
-    desc: "Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI"
-  },
 
+  icon: "🧠",
+  value: "AI",
+  title: "Current Learning",
+  desc: "ML, DL, NLP, Computer Vision, LLMs, RAG, GenAI, Agentic AI"
+},
   {
     icon: "☁️",
     value: "20+",

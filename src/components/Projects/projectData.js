@@ -1,35 +1,38 @@
 import v from "../../assets/v.png";
 import iii from "../../assets/iii.png";
 import vi from "../../assets/vi.png";
-import iv from "../../assets/iv.png";
 import vii from "../../assets/vii.png";
-import viii from "../../assets/viii.png";
-import i from "../../assets/i.png";
-import ii from "../../assets/ii.png";
-import ix from "../../assets/ix.png";
+import x from "../../assets/x.png";
 
 const projects = [
   {
-    id: 1,
-    title: "NexHire AI",
-   category: ["FullStack", "AI"],
-
-    description:
-      "AI-powered interview coach platform that conducts voice interviews, generates resume-based questions, evaluates performance, and provides personalized recommendations for improvement.",
-
-    image: v,
-
-    tech: [
-      "React",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "GenAI",
-      "SppechAI",
-    ],
-
-    github: "https://github.com/khushi123438/NexHire-AI",
     
+  id: 1,
+  title: "NexHire AI",
+  category: ["Gen AI", "RAG",
+    "Agentic AI"],
+
+  description:
+    "AI-powered interview coach that analyzes resumes, extracts and normalizes skills using NLP, generates adaptive interview questions with LLMs, conducts voice-based interviews, evaluates responses, and builds personalized career roadmaps.",
+
+  image: v,
+
+  tech: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Python",
+    "NLP",
+    "LLMs",
+    "GenAI",
+    "RAG",
+    "Agentic AI",
+    "Speech AI",
+  ],
+
+  github: "https://github.com/khushi123438/NexHire-AI",
+
   },
 
   {
@@ -51,55 +54,34 @@ const projects = [
     ],
 
     github: "https://github.com/khushi123438/NyaySetu",
-   
   },
 
- {
-  id: 3,
-  title: "RakshakAI",
-  category: ["AI"],
+  {
+    id: 3,
+    title: "Rakshak AI",
+    category: ["Machine Learning", "Computer Vision", "NLP", "LLMs"],
 
-  description:
-    "Multimodal AI-based disaster intelligence system that analyzes satellite imagery, environmental data, and emergency reports to predict disaster risks, provide real-time situational awareness, and support intelligent response decisions.",
+    description:
+      "Multimodal AI-based disaster intelligence system that analyzes satellite imagery, environmental data, and emergency reports to predict disaster risks, provide real-time situational awareness, and support intelligent response decisions.",
 
-  image: vii,
+    image: vii,
 
-  tech: [
-    "React",
-    "Node.js",
-    "Python",
-    "Machine Learning",
-    "Deep Learning",
-    "Computer Vision",
-    "NLP",
-    "GenAI",
-  ],
+    tech: [
+      "React",
+      "Node.js",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "NLP",
+      "GenAI",
+    ],
 
-  github: "https://github.com/khushi123438/NyaySetu/Rakshak-AI",
-},
+    github: "https://github.com/khushi123438/Rakshak-AI",
+  },
 
   {
     id: 4,
-    title: "GreenBill 2.0",
-category: ["Full Stack"],
-    description:
-      "Smart electricity bill prediction platform that estimates upcoming bills, tracks previous electricity usage, provides energy-saving insights, and suggests personalized tips to reduce consumption and costs.",
-
-    image: viii,
-
-    tech: [
-      "JavaScript",
-      "Node.js",
-      "MongoDB",
-      "Express.js",
-    ],
-
-    github: "https://github.com/khushi123438/GreenBill2.0",
-   
-  },
-
-  {
-    id: 5,
     title: "PlacementPro AI",
     category: ["Machine Learning"],
 
@@ -111,96 +93,34 @@ category: ["Full Stack"],
     tech: [
       "Python",
       "Scikit-Learn",
+      "Machine Learning",
       "JavaScript",
     ],
 
     github: "https://github.com/khushi123438/PlacementPro_AI",
-   
   },
 
   {
-    id: 6,
-    title: "Smart Price Tracker Analyzer",
-  category: ["Exploratory Data Analysis"],
-    description:
-      "End-to-end price monitoring platform that collects product data using web scraping, analyzes price trends, compares products, and provides insights through interactive dashboards.",
-
-    image: iv,
-
-    tech: [
-      "Python",
-      "Pandas",
-      "BeautifulSoup",
-      "Matplotlib",
-      "JavaScript",
-      "Chart.js",
-    ],
-
-    github: "https://github.com/khushi123438/Price-Tracker-Analyzer",
-   
-  },
-
-  {
-  id: 7,
-  title: "AI Image Classifier",
-  category: ["Deep Learning", "Computer Vision"],
+  id: 5,
+  title: "CardioGuard AI",
+  category: ["Machine Learning", "Deep Learning", "Transformer"],
 
   description:
-    "Deep learning-based image classification system that identifies and classifies images using Convolutional Neural Networks (CNN). The application allows users to upload images, predicts the image category, and displays confidence scores through an interactive web interface.",
+    "ML-powered cardiovascular risk assessment system that combines clinical data and ECG signals to predict cardiac risk, analyze heart conditions, and provide explainable insights using multiple AI models.",
 
-  image: i, 
+  image: x,
+
   tech: [
+    "React",
     "Python",
-    "TensorFlow",
-    "Keras",
-    "CNN",
     "Flask",
+    "Machine Learning",
+    "Deep Learning",
+    "ECG Analysis",
+    "Transformer"
   ],
 
-  github: "https://github.com/khushi123438/AI-Image-Classifier",
-},
-
-{
-  id: 8,
-  title: "Handwritten Digit Classifier",
-  category: ["Deep Learning", "CNN", "RNN"],
-
-  description:
-    "Deep learning application for handwritten digit recognition using the MNIST dataset. Implemented CNN and RNN models to classify handwritten digits with high accuracy and compared their performance for image recognition tasks.",
-
-  image: ii, 
-
-  tech: [
-    "Python",
-    "TensorFlow",
-    "Keras",
-    "CNN",
-    "RNN",
-    "NumPy",
-  ],
-
-  github: "https://github.com/khushi123438/Handwritten-Digit-Classifier",
-},
-
-{
-  id: 9,
-  title: "Sentiment AI",
-  category: ["AI", "Machine Learning", "NLP"],
-
-  description:
-    "AI-powered sentiment analysis system that analyzes user text, identifies emotional sentiment, and classifies feedback into positive, negative, or neutral categories using natural language processing and machine learning techniques.",
-
-  image: ix,
-
-  tech: [
-    "Python",
-    "Scikit-Learn",
-    "NLP",
-    "Pandas",
-    "NumPy",
-  ],
-
-  github: "https://github.com/khushi123438/Sentiment-AI",
+  github: "https://github.com/khushi123438/CardioGuard",
 },
 ];
 

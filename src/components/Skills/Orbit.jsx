@@ -3,46 +3,117 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
 import {
-  FaReact,
-  FaNodeJs,
+  FaBrain,
+  FaRobot,
+  FaDatabase,
+  FaSearch,
   FaPython,
-  FaJava,
-  FaGitAlt,
+  FaCodeBranch,
   FaDocker,
+  FaMicrochip,
+  FaNetworkWired,
 } from "react-icons/fa";
 
 import {
   SiTensorflow,
-  SiMongodb,
-  SiJavascript,
   SiPytorch,
   SiOpencv,
-  SiTailwindcss,
+  SiScikitlearn,
+  SiHuggingface,
+  SiLangchain,
 } from "react-icons/si";
 
 const orbitIcons = [
-  { icon: <FaReact />, color: "#61DAFB", angle: 0, label: "React" },
-  { icon: <FaNodeJs />, color: "#3C873A", angle: 30, label: "Node.js" },
-  { icon: <FaPython />, color: "#FFD43B", angle: 60, label: "Python" },
-  { icon: <SiTensorflow />, color: "#FF6F00", angle: 90, label: "TensorFlow" },
-  { icon: <SiPytorch />, color: "#EE4C2C", angle: 120, label: "PyTorch" },
-  { icon: <SiMongodb />, color: "#47A248", angle: 150, label: "MongoDB" },
-  { icon: <FaGitAlt />, color: "#F05032", angle: 180, label: "Git" },
-  { icon: <FaDocker />, color: "#2496ED", angle: 210, label: "Docker" },
-  { icon: <SiJavascript />, color: "#F7DF1E", angle: 240, label: "JavaScript" },
-  { icon: <SiTailwindcss />, color: "#38BDF8", angle: 270, label: "Tailwind" },
-  { icon: <SiOpencv />, color: "#5C3EE8", angle: 300, label: "OpenCV" },
-  { icon: <FaJava />, color: "#F89820", angle: 330, label: "Java" },
+  {
+    icon: <FaBrain />,
+    color: "#A855F7",
+    angle: 0,
+    label: "Machine Learning",
+  },
+
+  {
+    icon: <SiTensorflow />,
+    color: "#FF6F00",
+    angle: 30,
+    label: "Deep Learning",
+  },
+
+  {
+    icon: <SiPytorch />,
+    color: "#EE4C2C",
+    angle: 60,
+    label: "PyTorch",
+  },
+
+  {
+    icon: <SiScikitlearn />,
+    color: "#F7931E",
+    angle: 90,
+    label: "Scikit-Learn",
+  },
+
+  {
+    icon: <SiHuggingface />,
+    color: "#FFD21E",
+    angle: 120,
+    label: "Transformers",
+  },
+
+  {
+    icon: <FaRobot />,
+    color: "#22D3EE",
+    angle: 150,
+    label: "LLMs",
+  },
+
+  {
+    icon: <FaMicrochip />,
+    color: "#EC4899",
+    angle: 180,
+    label: "Generative AI",
+  },
+
+  {
+    icon: <SiLangchain />,
+    color: "#84CC16",
+    angle: 210,
+    label: "LLM Apps",
+  },
+
+  {
+    icon: <FaSearch />,
+    color: "#38BDF8",
+    angle: 240,
+    label: "RAG",
+  },
+
+  {
+    icon: <FaDatabase />,
+    color: "#8B5CF6",
+    angle: 270,
+    label: "Vector DB",
+  },
+
+  {
+    icon: <FaNetworkWired />,
+    color: "#06B6D4",
+    angle: 300,
+    label: "Agentic AI",
+  },
+
+  {
+    icon: <SiOpencv />,
+    color: "#5C3EE8",
+    angle: 330,
+    label: "Computer Vision",
+  },
 ];
 
-
 export default function Orbit() {
-    const [radius, setRadius] = useState(180);
+  const [radius, setRadius] = useState(180);
 
   useEffect(() => {
-
     const updateRadius = () => {
-
       if (window.innerWidth <= 480) {
         setRadius(110);
       } else if (window.innerWidth <= 768) {
@@ -52,7 +123,6 @@ export default function Orbit() {
       } else {
         setRadius(180);
       }
-
     };
 
     updateRadius();
@@ -60,7 +130,6 @@ export default function Orbit() {
     window.addEventListener("resize", updateRadius);
 
     return () => window.removeEventListener("resize", updateRadius);
-
   }, []);
 
   return (
@@ -80,10 +149,10 @@ export default function Orbit() {
         ))}
       </div>
 
-      {/* Glow */}
+      {/* AI Glow */}
       <div className="orbit-glow"></div>
 
-      {/* Decorative Outer Ring */}
+      {/* Outer Ring */}
       <motion.div
         className="outer-ring"
         animate={{ rotate: 360 }}
@@ -94,7 +163,7 @@ export default function Orbit() {
         }}
       />
 
-      {/* Decorative Inner Ring */}
+      {/* Inner Ring */}
       <motion.div
         className="inner-ring"
         animate={{ rotate: -360 }}
@@ -105,7 +174,7 @@ export default function Orbit() {
         }}
       />
 
-      {/* Icons Orbit */}
+      {/* AI Technology Orbit */}
       <motion.div
         className="orbit-ring"
         animate={{ rotate: 360 }}
@@ -116,8 +185,11 @@ export default function Orbit() {
         }}
       >
         {orbitIcons.map((item, index) => {
-          const x = radius * Math.cos((item.angle * Math.PI) / 180);
-          const y = radius * Math.sin((item.angle * Math.PI) / 180);
+          const x =
+            radius * Math.cos((item.angle * Math.PI) / 180);
+
+          const y =
+            radius * Math.sin((item.angle * Math.PI) / 180);
 
           return (
             <motion.div
@@ -132,13 +204,14 @@ export default function Orbit() {
               }}
             >
               {item.icon}
+
               <span>{item.label}</span>
             </motion.div>
           );
         })}
       </motion.div>
 
-      {/* Center */}
+      {/* Center AI Core */}
       <motion.div
         className="orbit-center"
         animate={{
@@ -149,7 +222,8 @@ export default function Orbit() {
           duration: 3,
         }}
       >
- 
+        <FaBrain />
+        <span>AI</span>
       </motion.div>
 
     </div>

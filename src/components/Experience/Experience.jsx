@@ -9,20 +9,25 @@ import {
 
 const experiences = [
   {
-    icon: <FaBrain />,
-    year: "2026 - Present",
-    role: "AI / Machine Learning Engineer",
-    company: "Self Learning",
-    description:
-      "Learning Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI and building real-world AI applications.",
-    skills: [
-      "Python",
-      "TensorFlow",
-      "PyTorch",
-      "OpenCV",
-      "Scikit-Learn",
-    ],
-  },
+  
+  icon: <FaBrain />,
+  year: "2026 - Present",
+  role: "AI / Machine Learning Engineer",
+  company: "Self Learning & AI Projects",
+  description:
+    "Exploring, building and deploying intelligent systems across Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI, with hands-on experience in LLMs, RAG, Agentic AI and end-to-end AI applications.",
+  skills: [
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Generative AI",
+    "LLMs",
+    "RAG",
+    "Agentic AI",
+  ],
+},
+ 
 
   {
     icon: <FaLaptopCode />,

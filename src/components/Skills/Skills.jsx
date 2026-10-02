@@ -5,96 +5,149 @@ import { motion } from "framer-motion";
 
 const skillCategories = [
   {
-    title: "🤖 AI & Machine Learning",
+    title: "🧠 Machine Learning & Deep Learning",
+   skills: [
+  "Machine Learning",
+  "Deep Learning",
+  "Neural Networks",
+  "CNN",
+  "RNN",
+  "LSTM",
+  "BiLSTM",
+  "Autoencoders",
+  "Model Evaluation",
+  "Feature Engineering"
+]
+
+  },
+
+  {
+    title: "🤖 Generative AI & LLMs",
     skills: [
-      "Machine Learning",
-      "Deep Learning",
       "Generative AI",
-      "Natural Language Processing",
-      "Computer Vision",
-      "Prompt Engineering"
+      "Large Language Models",
+      "LLMs",
+      "Transformers",
+      "Prompt Engineering",
+      "LLM Applications",
+      "AI Agents",
+      "Agentic AI",
+      "Hugging Face",
+      "Fine-Tuning"
     ]
   },
 
   {
-    title: "💻 Programming Languages",
+    title: "🔎 RAG & AI Retrieval",
+    skills: [
+      "Retrieval-Augmented Generation",
+      "RAG",
+      "Embeddings",
+      "Semantic Search",
+      "Vector Search",
+      "Vector Databases",
+      "Context Retrieval",
+      "Document Retrieval",
+      "Information Retrieval"
+    ]
+  },
+
+  {
+    title: "📝 NLP & Computer Vision",
+    skills: [
+      "Natural Language Processing",
+      "Text Processing",
+      "Information Extraction",
+      "Text Classification",
+      "Resume Parsing",
+      "Skill Extraction",
+      "Computer Vision",
+      "Image Processing",
+      "OpenCV"
+    ]
+  },
+
+  {
+    title: "📊 Data Science & ML Engineering",
     skills: [
       "Python",
-      "JavaScript",
-      "Java",
-      "C++"
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Matplotlib",
+      "EDA",
+      "Data Cleaning",
+      "Feature Engineering",
+      "Predictive Modeling",
+      "Model Inference"
     ]
   },
 
   {
-    title: "🌐 Full Stack Development",
+    title: "⚡ AI Frameworks & Tools",
+    skills: [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "Hugging Face",
+      "LangChain",
+      "OpenAI APIs",
+      "AI APIs",
+      "Google Colab",
+      "Jupyter"
+    ]
+  },
+
+  {
+    title: "💻 Programming & Software",
+    skills: [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++",
+      "Git",
+      "GitHub",
+      "REST APIs",
+      "Docker"
+    ]
+  },
+
+  {
+    title: "🌐 Application & Backend",
     skills: [
       "React.js",
       "Node.js",
       "Express.js",
+      "Flask",
+      "FastAPI",
       "MongoDB",
-      "Bcrypt",
-      "REST API",
+      "SQL",
       "JWT Authentication"
     ]
   },
 
   {
-    title: "📊 Data Science",
+    title: "🧩 Computer Science",
     skills: [
-      "Pandas",
-      "NumPy",
-      "Scikit-Learn",
-      "Matplotlib",
-      "Feature Engineering",
-      "EDA",
-      "Data Cleaning"
-    ]
-  },
-
-  {
-    title: "⚙ AI Frameworks",
-    skills: [
-      "TensorFlow",
-      "Keras",
-      "PyTorch",
-      "OpenCV",
-      "Hugging Face"
-    ]
-  },
-
-  {
-    title: "🛠 Developer Tools",
-    skills: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "Postman",
-      "Google Colab",
-      "Docker",
-      "Vercel"
-    ]
-  },
-
-  {
-    title: "🧩 CS Fundamentals",
-    skills: [
-      "DSA",
+      "Data Structures & Algorithms",
       "OOP",
       "DBMS",
-      "Operating System",
+      "Operating Systems",
       "Computer Networks",
-      "System Design",
-      "SQL"
+      "System Design"
     ]
   },
 
   {
-    title: "☁ Deployment",
+    title: "☁️ Deployment & Engineering",
     skills: [
+      "Docker",
       "Vercel",
       "Netlify",
-      "Render"
+      "Render",
+      "API Deployment",
+      "Model Deployment",
+      "GitHub"
     ]
   }
 ];
@@ -119,11 +172,11 @@ export default function Skills() {
             <span> Technologies</span>
         </h2>
 
-        <p>
-            Passionate about Artificial Intelligence, Machine Learning,
-            Full Stack Development and building scalable software
-            solutions.
-        </p>
+       <p>
+  Building intelligent systems across Machine Learning, Deep Learning,
+  NLP, Computer Vision, Transformers, LLMs, Generative AI,
+  RAG and Agentic AI.
+</p>
 
     </motion.div>
 
@@ -233,27 +286,20 @@ export default function Skills() {
 
         <h3>🚀 Currently Exploring</h3>
 
-        <div className="learning-tags">
+<div className="learning-tags">
 
-            <span>Generative AI</span>
+  <span>Large Language Models</span>
+  <span>Generative AI</span>
+  <span>RAG</span>
+  <span>Vector Databases</span>
+  <span>Semantic Search</span>
+  <span>AI Agents</span>
+  <span>Agentic AI</span>
+  <span>Transformers</span>
+  <span>Fine-Tuning</span>
+  <span>Multimodal AI</span>
 
-            <span>Large Language Models</span>
-
-            <span>LangChain</span>
-
-            <span>RAG</span>
-
-            <span>MCP</span>
-
-            <span>AI Agents</span>
-
-            <span>Prompt Engineering</span>
-
-            <span>Fine Tuning</span>
-
-            <span>Hugging Face</span>
-
-        </div>
+</div>
 
     </motion.div>
 

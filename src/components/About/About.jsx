@@ -18,122 +18,107 @@ export default function About() {
         className="about-left"
         initial={{ opacity: 0, x: -80 }}
         whileInView={{ opacity: 1, x: 0 }}
-        transition={{ duration: .8 }}
+        transition={{ duration: 0.8 }}
         viewport={{ once: true }}
       >
 
         <div className="about-glow"></div>
 
-     <motion.div
-  className="about-left"
-  initial={{ opacity: 0, x: -80 }}
-  whileInView={{ opacity: 1, x: 0 }}
-  transition={{ duration: 0.8 }}
-  viewport={{ once: true }}
->
-  <div className="about-glow"></div>
+        <div className="profile-wrapper">
 
-  <div className="profile-wrapper">
+          <div className="profile-card">
 
-    <div className="profile-card">
+            <div className="profile-circle">
+              👩🏻‍💻
+            </div>
 
-      <div className="profile-circle">
-        👩🏻‍💻
-      </div>
+            <h2>Khushi</h2>
 
-      <h2>Khushi</h2>
+            <p>AI Engineer</p>
 
-      <p>Aspiring AI Engineer</p>
+            <span className="profile-subtitle">
+              ML • GenAI • LLMs
+            </span>
 
-      <span className="profile-subtitle">
-        AI • ML • Full Stack
-      </span>
+          </div>
 
-    </div>
+          <motion.div
+            className="profile-bottom-card"
+            initial={{ opacity: 0, y: 25 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+          >
 
-    <motion.div
-      className="profile-bottom-card"
-      initial={{ opacity: 0, y: 25 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      transition={{ delay: 0.3 }}
-    >
-      <div className="bottom-item">
-        <h3>🚀</h3>
-        <p>Open to Work</p>
-      </div>
+            <div className="bottom-item">
+              <h3>🧠</h3>
+              <p>AI / ML</p>
+            </div>
 
-      <div className="divider"></div>
+            <div className="divider"></div>
 
-      <div className="bottom-item">
-        <h3>💻</h3>
-        <p>AI • MERN</p>
-      </div>
+            <div className="bottom-item">
+              <h3>🤖</h3>
+              <p>GenAI</p>
+            </div>
 
-      <div className="divider"></div>
+            <div className="divider"></div>
 
-      <div className="bottom-item">
-        <h3>📍</h3>
-        <p>India</p>
-      </div>
-    </motion.div>
+            <div className="bottom-item">
+              <h3>🔎</h3>
+              <p>RAG / LLM</p>
+            </div>
 
-    
-  <motion.div
-  className="status-card"
-  initial={{ opacity: 0, y: 30 }}
-  whileInView={{ opacity: 1, y: 0 }}
-  transition={{ delay: 0.3, duration: 0.8 }}
-  viewport={{ once: true }}
->
+          </motion.div>
 
-  <div className="status-header">
+          <motion.div
+            className="status-card"
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3, duration: 0.8 }}
+            viewport={{ once: true }}
+          >
 
-    <span className="status-dot"></span>
+            <div className="status-header">
 
-    <span>Available for Opportunities</span>
+              <span className="status-dot"></span>
 
-  </div>
+              <span>Exploring & Building AI Systems</span>
 
-  <div className="status-body">
+            </div>
 
-    <div className="role-chip">
-      🤖 AI Engineer
-    </div>
+            <div className="status-body">
 
-    <div className="role-chip">
-      🧠 ML Engineer
-    </div>
+              <div className="role-chip">
+                🤖 AI Engineer
+              </div>
 
-    <div className="role-chip">
-      💻 Software Developer
-    </div>
+              <div className="role-chip">
+                🧠 ML Engineer
+              </div>
 
-    <div className="role-chip">
-      🌐 Full Stack Developer
-    </div>
+              <div className="role-chip">
+                ✨ GenAI
+              </div>
 
-    <div className="role-chip">
-      🤖 AI Developer
-    </div>
+              <div className="role-chip">
+                🔗 LLM / RAG
+              </div>
 
-    <div className="role-chip">
-      📊 Data Scientist
-    </div>
+              <div className="role-chip">
+                🕸️ Agentic AI
+              </div>
 
-  </div>
+              <div className="role-chip">
+                📊 Data Science
+              </div>
 
-</motion.div>
+            </div>
 
-  </div>
+          </motion.div>
 
-
-</motion.div>
-
-
+        </div>
 
       </motion.div>
-
-
 
 
       {/* RIGHT */}
@@ -142,7 +127,7 @@ export default function About() {
         className="about-right"
         initial={{ opacity: 0, x: 80 }}
         whileInView={{ opacity: 1, x: 0 }}
-        transition={{ duration: .8 }}
+        transition={{ duration: 0.8 }}
         viewport={{ once: true }}
       >
 
@@ -151,26 +136,32 @@ export default function About() {
         </span>
 
         <h2>
-  Aspiring
-  <span> AI Engineer</span>
-  <br />
-  Building Intelligent Solutions
-</h2>
-      
-      <p>
-  I'm a Computer Science Engineering student and an aspiring
-  <strong> AI Engineer</strong> with a strong passion for building
-  intelligent applications that solve real-world problems.
+          Aspiring
+          <span> AI Engineer</span>
+          <br />
+          Building Intelligent Systems
+        </h2>
 
-  Currently, I'm expanding my expertise in
-  <strong> Artificial Intelligence, Machine Learning, Deep Learning,
-  Generative AI, Natural Language Processing (NLP),</strong> and
-  <strong> Computer Vision</strong>, while also developing scalable
-  full-stack applications using the MERN stack.
+        <p>
+          I'm a Computer Science Engineering student focused on building
+          <strong> intelligent, data-driven systems</strong> that solve
+          real-world problems.
 
-  I enjoy transforming ideas into impactful products by combining AI,
-  software engineering, and modern web technologies.
-</p>
+          My interests span across
+          <strong> Machine Learning, Deep Learning, Natural Language Processing,
+          Computer Vision, Transformers, Large Language Models (LLMs),</strong>
+          and <strong>Generative AI</strong>.
+
+          I'm also exploring modern AI architectures including
+          <strong> Retrieval-Augmented Generation (RAG), embeddings,
+          semantic search, vector databases,</strong> and
+          <strong> Agentic AI</strong> to build more contextual and
+          intelligent applications.
+
+          I enjoy working across the complete AI pipeline —
+          from <strong>data preprocessing, model training and evaluation </strong>
+          to <strong>LLM integration, retrieval pipelines and AI deployment</strong>.
+        </p>
 
 
         {/* Cards */}
@@ -181,57 +172,69 @@ export default function About() {
 
             <FaBrain />
 
-            <h4>AI</h4>
+            <h4>Machine Learning</h4>
 
-            <p>Machine Learning & Deep Learning</p>
-
-          </div>
-
-          <div className="about-box">
-
-            <FaLaptopCode />
-
-            <h4>Full Stack</h4>
-
-            <p>MERN Stack Development</p>
+            <p>
+              ML, Deep Learning & Neural Networks
+            </p>
 
           </div>
+
 
           <div className="about-box">
 
             <FaRobot />
 
-            <h4>Automation</h4>
+            <h4>Generative AI</h4>
 
-            <p>Smart AI Applications</p>
+            <p>
+              LLMs, Transformers & AI Applications
+            </p>
 
           </div>
+
+
+          <div className="about-box">
+
+            <FaLaptopCode />
+
+            <h4>RAG & Retrieval</h4>
+
+            <p>
+              Embeddings, Semantic Search & Vector DBs
+            </p>
+
+          </div>
+
 
           <div className="about-box">
 
             <FaCode />
 
-            <h4>DSA</h4>
+            <h4>Agentic AI</h4>
 
-            <p>Problem Solving & Algorithms</p>
+            <p>
+              AI Agents & Intelligent Workflows
+            </p>
 
           </div>
 
         </div>
-<button
-  className="about-btn"
-  onClick={() =>
-    document.getElementById("contact").scrollIntoView({
-      behavior: "smooth",
-    })
-  }
->
-  Let's Build Together
-  <FaArrowRight />
-</button>
+
+
+        <button
+          className="about-btn"
+          onClick={() =>
+            document.getElementById("contact").scrollIntoView({
+              behavior: "smooth",
+            })
+          }
+        >
+          Let's Build Together
+          <FaArrowRight />
+        </button>
 
       </motion.div>
-
 
     </section>
   );

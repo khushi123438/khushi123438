@@ -37,9 +37,12 @@ export default function Projects() {
         </h2>
 
         <p>
-          AI, Machine Learning, Deep Learning, Data Science and
-          Full Stack applications built to solve
-          real-world problems.
+        AI, Machine Learning, Deep Learning, NLP, Computer Vision,
+
+LLMs, RAG and Agentic AI systems built to solve
+
+real-world problems with intelligent technology.
+
         </p>
       </motion.div>
 
