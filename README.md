@@ -7,13 +7,11 @@
 
 <br/>
 
-!
-[![Followers](https://img.shields.io/github/followers/khushi123438?label=Followers&style=flat-square&color=8b5cf6)](https://github.com/khushi123438)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-pandey-12a104343/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/csai_093)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://khushidev.vercel.app)
 
 </div>
-
 ---
 
 ## 👩‍💻 About Me
