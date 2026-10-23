@@ -21,7 +21,7 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 - 🎓 B.Tech CSE (AI) @ Pranveer Singh Institute of Technology, **2024-2028** (CGPA 8.47)
 - 🔭 Working on **LLM apps, RAG pipelines and multi-agent systems**
 - 🧠 Strong foundation in **DSA, OOP, DBMS, OS and LLD**
-- 🏆 **700+ LeetCode** problems | ⭐ 5-Star Gold on **HackerRank** (Problem Solving & SQL)
+- 🏆 **650+ LeetCode** problems | ⭐ 5-Star Gold on **HackerRank** (Problem Solving & SQL)
 - 🌱 Always exploring: agentic AI, vector search, multimodal models
 - 🤝 Open to **internships, collaborations and AI/ML projects**
 
@@ -122,7 +122,7 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 
 ## 🏅 Achievements
 
-- 🧮 Solved **700+ problems on LeetCode**
+- 🧮 Solved **650+ problems on LeetCode**
 - ⭐ **5-Star Gold Badges** on HackerRank in Problem Solving and SQL
 - 🥇 **Top 50 team** at the College Tech Expo
 
