@@ -6,9 +6,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Multi-Agent+AI+systems+%F0%9F%A4%96;700%2B+LeetCode+problems+solved+%F0%9F%92%AA;CSE+%28AI%29+Undergrad+%40+PSIT+Kanpur+%F0%9F%8E%93;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
+
+!
 [![Followers](https://img.shields.io/github/followers/khushi123438?label=Followers&style=flat-square&color=8b5cf6)](https://github.com/khushi123438)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-pandey-12a104343/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/csai_093)
+
 </div>
 
 ---
