@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://khushidev.vercel.app)
 
 </div>
----
+
 
 ## 👩‍💻 About Me
 
