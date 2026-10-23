@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Khushi%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20%7C%20GenAI%20%7C%20Agentic%20AI%20Engineer-in-the-making&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Multi-Agent+AI+systems+%F0%9F%A4%96;700%2B+LeetCode+problems+solved+%F0%9F%92%AA;CSE+%28AI%29+Undergrad+%40+PSIT+Kanpur+%F0%9F%8E%93;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Multi-Agent+AI+systems+%F0%9F%A4%96;650%2B+LeetCode+problems+solved+%F0%9F%92%AA;CSE+%28AI%29+Undergrad+%40+PSIT+Kanpur+%F0%9F%8E%93;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
