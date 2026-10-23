@@ -102,16 +102,15 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 `CNN` `LSTM` `NLP` `RAG` `LLMs` `Computer Vision`
 
 ---
-### ⚖️ [NyaySetu](https://github.com/khushi123438/NyaySetu) - AI-Powered Legal Assistance Platform (MERN + GenAI)
-A full-stack legal platform that connects users with advocates and gives **AI-powered legal help**, built with the **MERN stack** and **Qwen LLM via Ollama**.
- 
-- 👥 **Role-based access** with separate **User and Advocate dashboards**, secured with JWT auth and bcrypt
-- 💬 **User-advocate chat** with PDF/image attachments, stored in MongoDB (Node, Express, Mongoose, Multer, React)
-- 🤖 **AI legal assistant** using NLP + **RAG** + Qwen 2.5 for context-aware answers, plus AI **document analysis and legal document generation** (downloadable PDFs)
-- 🔎 Advocate discovery, booking-linked consultations and legal news updates
-`MongoDB` `Express.js` `React` `Node.js` `JWT` `Ollama` `Qwen 2.5` `RAG` `NLP`
 
-`NLP` `Ollama` `Qwen 2.5` `RAG`
+### ⚖️ [NyaySetu](https://github.com/khushi123438/NyaySetu) – AI-Powered Legal Assistance Platform
+
+- Developed an AI legal assistant using **NLP, RAG, and Qwen 2.5 via Ollama** for context-aware legal queries.
+- Implemented **AI-powered legal document analysis and generation**, with downloadable PDF documents.
+- Integrated advocate discovery, consultation booking, and legal news updates to improve access to legal assistance.
+- Built secure user and advocate dashboards with **JWT authentication, bcrypt, and MongoDB-based chat** supporting file attachments.
+
+`NLP` `RAG` `Qwen 2.5` `Ollama` `MongoDB` `JWT` `MERN Stack`
 
 ---
 
