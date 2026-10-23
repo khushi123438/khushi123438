@@ -5,13 +5,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Multi-Agent+AI+systems+%F0%9F%A4%96;700%2B+LeetCode+problems+solved+%F0%9F%92%AA;CSE+%28AI%29+Undergrad+%40+PSIT+Kanpur+%F0%9F%8E%93;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8b5cf6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=8b5cf6)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-
+<br/>![Profile Views](https://komarev.com/ghpvc/?username=khushi123438&label=Profile%20Views&color=8b5cf6&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/khushi123438?label=Followers&style=flat-square&color=8b5cf6)](https://github.com/khushi123438)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-pandey-12a104343/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/csai_093)
 </div>
 
 ---
@@ -37,6 +34,13 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web Development (MERN Stack)**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **AI / ML**
 
@@ -77,7 +81,7 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 
 ## 🚀 Featured Projects
 
-### 🎙️ [NexHire-AI](https://github.com/YOUR_USERNAME/nexhire-ai) - AI-Powered Interview Preparation Platform
+### 🎙️ [NexHire-AI](https://github.com/khushi123438/NexHire-AI) - AI-Powered Interview Preparation Platform
 Generates **personalized technical and HR interviews from your resume** using LLMs and multi-agent orchestration.
 
 - 🧩 RAG + semantic retrieval + metadata filtering with **MongoDB Vector Search** for contextual questions and adaptive follow-ups
@@ -88,7 +92,7 @@ Generates **personalized technical and HR interviews from your resume** using LL
 
 ---
 
-### 🌍 [Rakshak-AI](https://github.com/YOUR_USERNAME/rakshak-ai) - Multimodal AI Disaster Intelligence System
+### 🌍 [Rakshak-AI](https://github.com/khushi123438/Rakshak-AI) - Multimodal AI Disaster Intelligence System
 A multimodal framework that fuses **satellite imagery, environmental time-series and emergency reports** to predict disaster risk.
 
 - 👁️ **CNN** computer vision + **LSTM** forecasting + **NLP** information extraction
@@ -98,7 +102,7 @@ A multimodal framework that fuses **satellite imagery, environmental time-series
 
 ---
 
-### ⚖️ [NyaySetu](https://github.com/YOUR_USERNAME/nyaysetu) - AI-Powered Legal Assistance Platform
+### ⚖️ [NyaySetu](https://github.com/khushi123438/NyaySetu) - AI-Powered Legal Assistance Platform
 A legal chatbot that answers legal questions with **context-aware responses** grounded in a legal knowledge base.
 
 - 🦙 Runs locally with **Ollama + Qwen 2.5 (3B)**
@@ -108,30 +112,9 @@ A legal chatbot that answers legal questions with **context-aware responses** gr
 
 ---
 
-### 📌 Pinned Repos
-
-[![NexHire-AI](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=nexhire-ai&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/nexhire-ai)
-[![Rakshak-AI](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=rakshak-ai&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/rakshak-ai)
-[![NyaySetu](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=nyaysetu&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/nyaysetu)
-
----
-
 ## 📊 GitHub & Coding Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="170" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap" />
-
-</div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushi123438&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi123438&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi123438&theme=tokyonight&hide_border=true" /> <br/> <img height="170" src="https://leetcard.jacoblin.cool/csai_093?theme=dark&font=Fira%20Code&ext=heatmap" /> </div>
 
 ---
 
@@ -153,10 +136,10 @@ A legal chatbot that answers legal questions with **context-aware responses** gr
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khushidev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-pandey-12a104343/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/csai_093)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp8238977@gmail.com)
 
 <br/>
 
@@ -165,3 +148,4 @@ A legal chatbot that answers legal questions with **context-aware responses** gr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
+
