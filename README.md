@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Multi-Agent+AI+systems+%F0%9F%A4%96;700%2B+LeetCode+problems+solved+%F0%9F%92%AA;CSE+%28AI%29+Undergrad+%40+PSIT+Kanpur+%F0%9F%8E%93;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>![Profile Views](https://komarev.com/ghpvc/?username=khushi123438&label=Profile%20Views&color=8b5cf6&style=flat-square)
+<br/>
 [![Followers](https://img.shields.io/github/followers/khushi123438?label=Followers&style=flat-square&color=8b5cf6)](https://github.com/khushi123438)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-pandey-12a104343/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/csai_093)
@@ -81,32 +81,34 @@ Hi! I'm **Khushi**, a Computer Science (Artificial Intelligence) undergraduate f
 
 ## 🚀 Featured Projects
 
-### 🎙️ [NexHire-AI](https://github.com/khushi123438/NexHire-AI) - AI-Powered Interview Preparation Platform
-Generates **personalized technical and HR interviews from your resume** using LLMs and multi-agent orchestration.
+### 🎙️ [NexHire-AI](https://github.com/khushi123438/NexHire-AI) – AI-Powered Interview Preparation Platform
 
-- 🧩 RAG + semantic retrieval + metadata filtering with **MongoDB Vector Search** for contextual questions and adaptive follow-ups
-- 📈 LLM-based evaluation, candidate memory and **adaptive difficulty**
-- 🔊 Voice interviews via **Whisper, OpenAI and ElevenLabs** with instant feedback
+- Developed an AI-powered platform that generates personalized technical and HR interviews based on resume analysis.
+- Integrated **RAG, semantic retrieval, and metadata filtering** with MongoDB Vector Search for contextual questions and adaptive follow-ups.
+- Implemented **LLM-based evaluation, candidate memory, and adaptive difficulty** for personalized interview experiences.
+- Enabled voice-based interviews using **Whisper, OpenAI, and ElevenLabs** with instant feedback.
 
-`LLMs` `Multi-Agent` `RAG` `MongoDB Vector Search` `Whisper` `ElevenLabs`
+`LLMs` `Multi-Agent Systems` `RAG` `MongoDB Vector Search` `Whisper` `ElevenLabs`
 
 ---
+### 🌍 [Rakshak-AI](https://github.com/khushi123438/Rakshak-AI) – Multimodal AI Disaster Intelligence System
 
-### 🌍 [Rakshak-AI](https://github.com/khushi123438/Rakshak-AI) - Multimodal AI Disaster Intelligence System
-A multimodal framework that fuses **satellite imagery, environmental time-series and emergency reports** to predict disaster risk.
-
-- 👁️ **CNN** computer vision + **LSTM** forecasting + **NLP** information extraction
-- 💬 LLMs and RAG for disaster queries, **AI-generated situation reports** and explainable risk insights
+- Developed a multimodal AI framework integrating satellite imagery, environmental time-series, and emergency reports for disaster risk prediction.
+- Applied **CNN-based computer vision** for image analysis and **LSTM** for environmental time-series forecasting.
+- Integrated **NLP, LLMs, and RAG** for disaster-related queries, information extraction, and AI-generated situation reports.
+- Generated explainable risk insights to support disaster intelligence and informed emergency response.
 
 `CNN` `LSTM` `NLP` `RAG` `LLMs` `Computer Vision`
 
 ---
-
-### ⚖️ [NyaySetu](https://github.com/khushi123438/NyaySetu) - AI-Powered Legal Assistance Platform
-A legal chatbot that answers legal questions with **context-aware responses** grounded in a legal knowledge base.
-
-- 🦙 Runs locally with **Ollama + Qwen 2.5 (3B)**
-- 📚 **RAG** retrieves relevant legal context before generating answers
+### ⚖️ [NyaySetu](https://github.com/khushi123438/NyaySetu) - AI-Powered Legal Assistance Platform (MERN + GenAI)
+A full-stack legal platform that connects users with advocates and gives **AI-powered legal help**, built with the **MERN stack** and **Qwen LLM via Ollama**.
+ 
+- 👥 **Role-based access** with separate **User and Advocate dashboards**, secured with JWT auth and bcrypt
+- 💬 **User-advocate chat** with PDF/image attachments, stored in MongoDB (Node, Express, Mongoose, Multer, React)
+- 🤖 **AI legal assistant** using NLP + **RAG** + Qwen 2.5 for context-aware answers, plus AI **document analysis and legal document generation** (downloadable PDFs)
+- 🔎 Advocate discovery, booking-linked consultations and legal news updates
+`MongoDB` `Express.js` `React` `Node.js` `JWT` `Ollama` `Qwen 2.5` `RAG` `NLP`
 
 `NLP` `Ollama` `Qwen 2.5` `RAG`
 
